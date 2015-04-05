@@ -8,11 +8,11 @@ In sentiment analysis the existing methods can be grouped into four main categor
 * Concept-level techniques. 
 
 ####Proposal
-The purpose of this project is getting book reviews from websites such as [idefix](http://www.idefix.com/kitap/yazar_index.asp), [kitapyurdu](http://www.kitapyurdu.com/) etc. and determining people's thoughts by using sentiment analysis methods. In some cases, stars that are given to books or reviews might help us to get idea about that book or review. 
+The purpose of this project is getting hotel reviews from the [tripadvisor](http://www.tripadvisor.com.tr/) and determining people's thoughts by using sentiment analysis methods. In some cases, stars that are given to hotels (location, rooms, service, value etc.)  can be used to compare the reviews and the rating of hotels. 
 
 ####Steps
-* Getting book rewiews from web
+* Getting hotel rewiews from web
 * Data processing (cleaning, solving Turkish chracter problems)
-* Creating training data
+* Training th data
 * Testing & Improving the training data iteratively
-* Hopefully getting a result 
+* Data Visualization with [Google Geochart](https://developers.google.com/chart/interactive/docs/gallery/geochart)
