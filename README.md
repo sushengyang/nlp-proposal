@@ -11,8 +11,8 @@ In sentiment analysis the existing methods can be grouped into four main categor
 The purpose of this project is getting hotel reviews from the [tripadvisor](http://www.tripadvisor.com.tr/) and determining people's thoughts by using sentiment analysis methods. In some cases, stars that are given to hotels (location, rooms, service, value etc.)  can be used to compare the reviews and the rating of hotels. 
 
 ####Steps
-* Getting hotel rewiews from web
+* Getting hotel reviews from web
 * Data processing (cleaning, solving Turkish chracter problems)
-* Training th data
+* Training the data
 * Testing & Improving the training data iteratively
 * Data Visualization with [Google Geochart](https://developers.google.com/chart/interactive/docs/gallery/geochart)
