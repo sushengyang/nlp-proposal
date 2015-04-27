@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import nltk
 from nltk.probability import FreqDist, ELEProbDist
-from nltk.classify.util import apply_features
+from nltk.classify.util import apply_features,accuracy
 
 pos = [('Cennet','positive'), 
 ('GAYET BAŞARILI','positive'),
@@ -9,7 +9,7 @@ pos = [('Cennet','positive'),
 ('Kendinize iyilik yapin, D hotele gidin..','positive'),
 ('Muhteşem bir tatil ve harika bir eğlence','positive')]
 
-neg = [('okadar uzun ve yorucu yol,haketmeyen fıyatlar, abartılı reklam','negative'),
+neg = [('okadar uzun ve yorucu yol, haketmeyen fıyatlar, abartılı reklam','negative'),
 ('beklendiği gibi değil...','negative'),
 ('Vasatın altı','negative'),
 ('yemekler berbat !','negative'),
@@ -33,6 +33,7 @@ def get_features(wordlist):
 	return word_features
 
 review_features = get_features(get_all_words(reviews))
+#print review_features
 
 def extract_features(document):
     document_words = set(document)
@@ -46,5 +47,20 @@ classifier = nltk.classify.NaiveBayesClassifier.train(training_set)
 
 
 test = ["berbat bir yer", "muhteşem bir yer","harika","vasat bir yer"]
+
 for r in test:
 	print classifier.classify(extract_features(r.split()))
+
+test_reviews = [("berbat bir yer","negative"), ("muhteşem bir yer","positive"),("harika","positive"),("vasat bir yer","negative")]
+test_set = apply_features(extract_features, test_reviews)
+
+print nltk.classify.util.accuracy(classifier, test_set)
+
+"""
+output will be like this:
+negative
+positive
+positive
+positive
+0.5
+"""
