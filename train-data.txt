@@ -1,0 +1,217 @@
+﻿pos, Cennet
+pos, GAYET BAŞARILI
+pos, Cennet boyle bir yermidir?
+pos, Kendinize iyilik yapin, D hotele gidin..
+pos, Mutlaka gidilmesi ve kalınması gereken bir Cennet
+pos, 1 Numaram:)
+none, rezervasyon
+pos, Mükemmel bir konum, vasat yemekler, tatsız tesisleri
+pos, Kusursuz !
+none, Club Amaris / Marmaris yorumu
+pos, Club Amaris / Marmaris yorumu
+pos, Kalmak için ne güzel bir yer...!!!!
+pos, GÜZEL BİR TATİL OLDU...
+neg, Rezalet bir Otel
+pos, fena değil
+pos, Güler yüzlü ve samimi
+neg, Berbat
+pos, Güler yüzlü ve samimi
+neg, Kesinlikle geri döneceğim!
+pos, Çok sıcakkanlı çalışanları olan güzel bir otel
+pos, Super Bir tatil imkani
+none, Çok Uygun Fiyata En İyi Hizmet
+pos, Çok Uygun Fiyata En İyi Hizmet
+pos, Yetmez ama evet ! =)
+neg, Konumu iyi fakat otel yeterli değil
+pos, Güzel,temiz,merkezi...
+pos, UYGUN FİYATA DENİZE SIFIR TATİL...
+neg, Görünüşe ve puana aldanmamak gerek
+pos, gidilir..
+neg, Sakın arkadaşlar sakınnn
+pos, Kesinlikle yalan değil
+none, Genel olarak başarılı ama animasyon ekibini kınıyorum
+pos, Genel olarak başarılı ama animasyon ekibini kınıyorum
+pos, Animasyon ekibinin yabanci hayranligi
+pos, Yabanci. Hayranligi.
+pos, tek kelimeyle harikaa
+pos, Teşekkürler Rose
+pos, Paranın karşılığı iyi
+pos, Muhteşem bir tatil ve harika bir eğlence
+pos, Orta Düzeyde
+none, Orta Düzeyde
+pos, Aynı Yemekler
+pos, Beklenenden daha iyi olması dileğiyle
+pos, Kotunun iyisi
+neg, Bir daha asla, yurt gibi
+neg, çok büyük beklentiniz olmasın.
+pos, Emre Hotels
+pos, optimum şartlarda tatil
+pos, Yine çok güzeldi!
+pos, Harika...yine!!
+pos, Güzel bir tatildi
+pos, başarılı
+pos, cok tesekkur ederiz
+pos, temiz ve güzeldi
+pos, Kendini Evinde gibi hissetmek :))) mükemmel
+pos, Tek kelimeyle harika bir otel
+pos, muhteşem
+pos, yine yeniden daima poseidon :)
+pos, aile oteli posedion:)
+pos, Harika
+pos, Harika
+pos, tatil
+neg, Açlık, hüsran ve Memnuniyetsizlik
+pos, animasyon cok ıyıydı
+pos, Eğlence havuz
+pos, Sıcacık bir ilgi ve otel
+pos, Hersey cok guzeldi
+pos, Ciko ile guzel gunler
+pos, Hersey cok güzeldi
+pos, Muhteşem hizmet
+pos, Muhteşem hizmet
+pos, Eh..
+pos, TEMİZ OTEL
+pos, harika bir tatildi.
+neg, yorumları abartmamak lazım...
+pos, Fiyatına göre gayet iyi..
+pos, Yedik Yüzdük Gezdik.
+pos, Oldukça iyi.
+pos, Sadece manzara için para ödüyorsunuz!
+pos, Neyi aradığınıza bağlı...!?
+pos, memnuniyet
+pos, Murat Gültekin...Teşekkürler... Emre Beach Hotel
+pos, Tam anlamıyla super tatildi
+pos, abonesi olduk :)
+pos, teşekkürler emre beach
+pos, tesekkurler
+pos, Turistler için ideal
+pos, Sadece En İyiler
+pos, Çok İdeal Bir Otel
+pos, An itibariyle .
+pos, mükemmel bir tatil
+pos, Fena degil...
+neg, Berbat ötesi bir otel...4 yıldızı nasıl almış hayret!
+pos, huzurlu tatil
+neg, Beklentilerin altında...
+pos, Sıcak personel ve yönetim.
+pos, Deluxe oda çok güzeldi
+pos, Güzel seçim
+pos, Muhteşem bir otel
+pos, Julian da mükemmel bir hafta :)
+pos, Uyku uyutmayacak bir tatil :)
+pos, Pişman olmazsınız
+pos, Denize de sıfır olsa tadından yenmezdi herhalde.
+pos, dolu dolu bir tatil
+pos, Fena değil
+pos, Nezih bir ortami var.
+pos, Ailemiz ve konfor
+pos, Mevkisi ve manzarasi cok guzel
+pos, Samimi v3 güleryüzlü personel
+pos, herzamanki tercihim
+pos, kahvaltisi disinda
+pos, 19 -Harika Bir Tatil için Malibu
+neg, Beklentilerden uzak
+pos, Memnuniyet
+pos, cok guzeldi tatil
+neg, BİR KEZ DAHA DÜŞÜNÜN !!!
+pos, Green Diamond = Kaliteli Otel
+pos, Mükemmel tatil
+pos, Mükemmel
+pos, Otel tamamlandığı zaman
+neg, Kandirildik
+pos, tamamlanmamış ama güzel
+pos, 10 üzerinden 7
+pos, Super
+pos, İyi Yönetilen Güzel Bir Otel
+neg, Dönmek için sabırsızlanıyorum
+pos, kızım ilk defa eve dönmek istemedi
+none, Sahil, deniz muhteşem
+pos, Sahil, deniz muhteşem
+pos, ortalama
+pos, Cennetten bir parça!
+neg, Bir daha gider miyim ?
+pos, TEK KELİMEYLE HARİKA
+pos, TESİSİN KONUMU HARİKA
+neg, doğası ve mimarisi dışında tam bir hayal kırıklığı
+pos, konumu müthiş.
+pos, romantik tatil için
+none, Elegance otel
+pos, Elegance otel
+pos, Mükemmel Manzara
+pos, Genel itibari ile güzel bir otel
+pos, elegance hotel...
+pos, Standartlar yükseltilmeli
+pos, Secret paradise
+pos, SÜPER HOTEL
+pos, Marmaris denilince tek adresim .
+pos, Fazla beklenti icine girmemek lazim
+pos, Teşekkürler güleryüzlü insanlar
+pos, Marmaris tatilimin bundan sonraki tek adresi
+pos, Süper Tatil!
+pos, Teşekkürler
+pos, güleryüz, sakinlik ve deniz...
+pos, Çok keyifliydi...
+pos, Sakin bir tatil icin idal
+pos, Aileler için güzel bir butik otel
+pos, Harika bir butik otel.
+pos, mükemmel
+pos, Mükemmel bir konum da super bir tatil
+pos, tatil
+pos, Mükemmel F&B personeli
+pos, Daha iyi bir tatil düşünemiyorum
+pos, Denizi Muhtesem
+pos, güzel bir tesis
+neg, okadar uzun ve yorucu yol,haketmeyen fıyatlar, abartılı reklam
+pos, Cocuk aktiviteleri veücretli su
+pos, Süper...
+pos, çok eğlenceli , bitmesini istemediğimiz bir tatildi..
+pos, Marmaris'teki Romance Hotel ve Kybele Apart Hotel
+pos, yeri güzel , plaj temiz
+none, selo
+neg, beklendiği gibi değil...
+neg, yabancı turist sonsuz ilgi yerli turist kendi halleder
+pos, ortalama düzeyde
+pos, Animasyon ekibine :)
+pos, eglenmek için tek adres
+none, s.m.g.r.g.
+pos, harika bir tatil ve mükemmel bir misafirperverlik
+pos, Harika bir tatildi kesinlikle okuyun (çılgın çiftden :) )
+pos, Kaliteli Tatilin Doğru Adresi (=
+pos, Gayet keyifli bir otel
+neg, Vasatın altı
+neg, Turunçtaki bütün otellerde yemek sorunu var malesef
+pos, Ortalama
+neg, yemekler berbat !
+pos, 1 - 7 Eylül 2014
+neg, hayal kırıklıgı
+pos, sakin, çocuklu aileler için ideal
+pos, Harika
+none, 2014 senesi
+none, Mart Ayi Degerlendirmesi
+pos, Marmaris te kalite 
+pos, TEK KELİME İLE MÜKEMMEL
+pos, Marmaris teki kalite
+pos, leyla s.
+pos, Mükemmel bir tatildi.
+pos, Kaliteli hizmet..
+pos, mutluluk
+pos, 10 numara 5 yıldız
+pos, Gittiğim en güzel Otel 
+pos, keyifli bir otel
+pos, Mukemmel otel 10 numara
+pos, Gercekten iyi bir tesis
+pos, 2 yıldızlı otel!!!!
+pos, şiddetle önerilir..
+neg, Özellikle bekarlar sakın gıtmesın
+pos, Tek kelime ile mükemmel
+pos, her şey mükemmeldi...
+pos, Güzel bir tatil
+pos, Bence Türkiye'nin en iyisi...
+pos, Harika bir tatil geçirdik.
+pos, muhteşem bir tatil
+pos, Tatilden çok daha fazlasi
+pos, Kötü kurallar
+pos, Doğa Deniz Huzur
+pos, Doğadaki huzur
+pos, Doğayla başbaşa huzurlu bir tatil
+neg, Deneme...

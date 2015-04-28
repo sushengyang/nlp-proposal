@@ -3,24 +3,29 @@ import nltk
 from nltk.probability import FreqDist, ELEProbDist
 from nltk.classify.util import apply_features,accuracy
 
-pos = [('Cennet','positive'), 
-('GAYET BAŞARILI','positive'),
-('Cennet boyle bir yermidir?','positive'),
-('Kendinize iyilik yapin, D hotele gidin..','positive'),
-('Muhteşem bir tatil ve harika bir eğlence','positive')]
-
-neg = [('okadar uzun ve yorucu yol, haketmeyen fıyatlar, abartılı reklam','negative'),
-('beklendiği gibi değil...','negative'),
-('Vasatın altı','negative'),
-('yemekler berbat !','negative'),
-('hayal kırıklıgı','negative')]
+# Getting data from train-data.txt in appropriate form.
+posList, negList = [], []
+pos, neg = [], []
+posTuple, negTuple = (), ()
+txt = open("train-data.txt", "r")
+for line in txt:
+	if(line[:3]=='pos'):
+		posList.append(line[5:-1])
+	if(line[:3]=='neg'):
+		negList.append(line[5:-1])
+for p in posList[:25]:
+	tupples = posTuple + (p,) + ("positive",)
+	pos.append(tupples)
+print pos
+for n in negList[:25]:
+	tupples = negTuple + (n,) + ("negative",)
+	neg.append(tupples)
+print neg
 
 reviews = []
 for (words, sentiment) in pos + neg:
 	words_filtered = [e.lower() for e in words.split() if len(e)>3]
 	reviews.append((words_filtered, sentiment))
-
-#print reviews
 
 def get_all_words(reviews):
 	all_words = []
@@ -46,12 +51,18 @@ training_set = apply_features(extract_features, reviews)
 classifier = nltk.classify.NaiveBayesClassifier.train(training_set)
 
 
-test = ["berbat bir yer", "muhteşem bir yer","harika","vasat bir yer"]
+test = ["berbat bir yer", "Muhteşem bir yer.","harika","mükemmel bir yer","vasat","rezalet"]
 
 for r in test:
 	print classifier.classify(extract_features(r.split()))
 
-test_reviews = [("berbat bir yer","negative"), ("muhteşem bir yer","positive"),("harika","positive"),("vasat bir yer","negative")]
+test_reviews = [("berbat bir yer","negative"),
+				("Muhteşem bir yer.","positive"),
+				("harika","positive"),
+				("mükemmel bir yer","positive"),
+				("vasat","negative"),
+				("rezalet","negative")]
+				
 test_set = apply_features(extract_features, test_reviews)
 
 print nltk.classify.util.accuracy(classifier, test_set)
@@ -62,5 +73,7 @@ negative
 positive
 positive
 positive
+positive
+negative
 0.5
 """
